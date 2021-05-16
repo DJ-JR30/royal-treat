@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Royal ACE Skin Pack",
+        "uuid": "a295a9e8-da3e-4646-a0a1-7be13837d1ce",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "01fb47b6-8a94-4b96-901e-afbb96da44c9",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
